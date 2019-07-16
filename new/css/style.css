@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+}
+body{
+    Background-image:
+
+Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+Linear-gradient(127deg, black, black 70.71%),
+
+Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+
+
+}
+
+
+.test a{
+    color: white;
+margin-left: 50px;
+font-size: 27px;
+}
+.test{
+    display: inline;
+    height: 70%;
+
+    
+}
+.opa{
+    height: 50px;
+    
+}
+#i{
+    margin: 0;
+    width: 50px;
+    height: 50px;
+    margin: 20px;
+
+}
+h1{
+    color: white;
+    padding-top:25px; 
+}
+
+.im{
+
+margin: 0;
+width: 100%;
+}
+.trois:hover{
+    opacity: 0.3;
+
+}
+video{
+    color:white;
+}
